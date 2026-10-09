@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.793,=C:\Users\JensH\Documents\Embarcadero\Studio\Projekte\Project1.dxSettings.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.153,=E:\Projekte\Windows\Dashboard\PCM.Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.528,E:\Projekte\Windows\Dashboard\PCMDashboard.dproj=C:\Users\JensH\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.555,E:\Projekte\Windows\Dashboard\PCMDashboard.dxSettings.pas=C:\Users\JensH\Documents\Embarcadero\Studio\Projekte\Project1.dxSettings.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.424,=C:\Users\JensH\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
